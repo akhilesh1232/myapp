@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap');
+
+
+#heading{
+    margin-top: 50px;
+    color: green;
+    font-weight: bold;
+    font-family: 'Lexend Mega', sans-serif;
+} 
+
+#article{
+    min-width: 75%;
+    font-family: 'Lexend Mega', sans-serif;
+}
+.tab { 
+    display: inline-block; 
+    margin-left: 100px; 
+} 
+strong{
+    color: green;
+}
