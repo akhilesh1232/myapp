@@ -1,16 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega:wght@300&display=swap');
+p{
+    font-size: 1.35vw;
+    font-weight: 800;
+}
 
 #heading{
-    margin-top: 50px;
-    color: green;
+    font-size: 4vw;
+    background-color: royalblue;
+    color: white;
     font-weight: bold;
     font-family: 'Lexend Mega', sans-serif;
 } 
 
 #article{
     min-width: 75%;
-    font-family: 'Lexend Mega', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }
 .tab { 
     display: inline-block; 
