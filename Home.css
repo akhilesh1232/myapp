@@ -1,0 +1,23 @@
+.img1, .img2, .img3, .img4{
+    height: 300px;
+    width: 300px;
+}
+.img1, .img3{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.img2, .img4{
+    margin-left: 100px;
+}
+#header{
+    margin-top: 100px;
+}
+.my-3{
+    padding-top: 20px;
+}
+#first-imp, #sec-imp{
+    margin-top: 100px;
+}
+#second{
+    margin-top: 100px;
+}

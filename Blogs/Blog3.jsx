@@ -1,0 +1,37 @@
+import React from 'react';
+import "../Blogs/Blog.css";
+
+function Blog3(){
+    return(
+        <>
+            <div className="container-fluid">
+                        <div className="row">
+                            <h1 className = "my-3 my-5 mx-auto" id="heading">
+                            CAN (& IF) WE SMELL WHAT  ‘THESE PEOPLE’  ARE COOKING ?
+                            </h1>
+                        </div>
+                        <div className="row">
+                            <div className="col-10 mx-auto">
+                            <p id="article"> <span className="tab"></span> The moment at which I am writing this article, everyone is aware about the serious breach in PM Modi’s security. Long story short is, PM and his convoy was headed towards Firozpur which is merely 20-30 Km. away from Pakistan border, where the huge rally was organised and development projects worth 42000 Cr. were to be announced. Before reaching the venue, convoy of PM had to wait for 20 minutes, right over the flyover, (where possible escape in case would have been difficult) because of current trend of protesting anywhere and for unknown duration. And yes, the programme got cancelled. 
+<br/>
+Just after this news broke, some of the most immature reactions came from leaders of Grand Old Party of India, INC. You can only know why I used word immature if you know little technicalities in the security and if you are on the social media. Someone said there was no crowd at rally hence centre made it a reason to cancel a rally, which was proved wrong by visuals and even if this was to be considered true, such security lapse is still unacceptable. The CM said he was unable to receive PM because he was following quarantine, again even if this is considered to be true, it’s a tacit protocol that someone from State Government should be present to receive Prime Minister in their state. Funniest thing he said that he wasn’t aware that Prime Minister was coming to Punjab that day. Another leader of congress tweeted “How’s the josh, Modiji?”. I am simply stunned. Even after losing 2 of its Prime Ministers due to security reasons, how can a leader from same party finds this thing titillating?  Rahul Gandhi, joining his team said something completely non sequitur (probably in his holiday vibe). When we leave this all non sense behind and think properly, then emerges two questions, and those essentially are why this happened and another is was this state sponsored/supported? 
+The answer of second question is quite clear (logically) but revealing that here can get me into problems, since the apex court directed probe is going on. Hence moving on to the first question, which thing lead to happen this? And believe me, the answer is not so short and simple. Some may think it’s Farmer’s Protest (edition 2021-22) , others may contemplate it to be Punjab Assembly Polls 2022 but the thing which lead what happened today, was set in the motion decades ago and may go on for many decades if not acted upon properly. 
+Everyone who has fair interest in the politics and follows news must have heard Bhindranwale’s name. Congress has always shown propensity to divide the communities and play petty politics over it, whether it is on the basis of caste or religion or culture. It tried to play same thing in Punjab by supporting Bhindranwale and his radical views, while he was emerging as religious leader of Sikh community. Sikhs and Hindus (which makes most of the population of Punjab) have always been living with harmony but it was the first time when cracks started to appear. Then second incident happened when operation blue star took place. Many military experts believe that Indira Gandhi could have avoided to enforce the army to take over the Harmandir Sahib preventing all the bloodshed took place at the most religious place of Sikhs. This lead to another crack which then PM may have deliberately wanted (Iron Lady thing). The final chop was massacre of nearly 3000-3500 (official figures alert!!!!) sikhs during anti-sikh riots, which erupted just after assassination of Indira Gandhi. All these incidents lead to bitterness among the communities in Punjab. Most recent version, which fumed this fire was farmer’s protest. Since then, the radicalised section of the Sikh community, who still support Khalistan, either in India or abroad, have been appearing lately on the political horizon.(assuming readers don’t indulge this ideology). 
+In order to relate it to the incident in light, I will recall some events happened recently which shows the revival of this mindset 
+<br/>
+Slogans hailing Khalistan were painted on walls of Indian Embassy in Italy and UK on the very day when protesting farmer leaders appealed for national shut down. 
+Khalistani supporters vandalised Gandhi’s status outside Indian Embassy in Washington.
+The most haunting moment of 2021, the Republic Day violence.  
+A dead man found tied on barricade with his hands chopped because of sacrilege. 
+Lynching at Darbar Sahib and Kapurthala Gurudwara over alleged sacrilege. Most surprising thing in this case, the name of victim is yet to be revealed, even till this very day. (Which itself actually hints to many points)
+<br/>
+Each of the above points are chronologically ordered and shows incremental radicalisation of this mindset. Failed law and order situation by incompetent congress government in state, boosted moral of Khalistani supporters after win in Farmer’s protest, consumption of drugs ( that too smuggled from Pakistan) and unemployment are factors playing vital role to escalate the condition. I hate to say this but many of the political experts I hear to, believe today’s scenario is akin to situation which lead to 1984 (most importantly the lynchings). Now adding all the above incidents to breach in PM Modi’s security and most significantly SFJ taking the responsibility for it, paints the frightful picture of Punjab in near future. The title clearly reflects my worries on the questions what’s next? Up to what level, ‘these people’ are going to push the government? It’s not only Central government these people are challenging, they are also stressing the state government by disturbing the law and order. and importantly, what can be done to placate minds of ordinary sikhs? These are some unanswered questions…to which people of Punjab can only answer(indeed, I am referring to the assembly elections).<br/>
+Now next question is what Central Government is doing in this? Probably repealing farm laws was one way, more iconically on the occasion of Guru Nanak Jayanti, which PM may have thought would help little to make things up. Visiting the Gurudwara in Rakabganj, opening the Kartarpur corridor, declaring 26th December as Veer Baal Diwas, constantly bringing up the Sikh religious references in speeches, these all are the efforts being done by PM to sooth the sentiments of common sikh community. Apart from this, I believe only past the assembly elections and its result, we can be clear where this thing is headed. But the one thing is very coherent, India as a young nation, trying to fly high, just after pandemic hit, can not afford to indulge in civil war. And hence, the positive answer to title of my article is MUST.</p>
+                        
+                            </div>
+                        </div>
+                    </div>
+        </>
+    );
+}
+export default Blog3;
